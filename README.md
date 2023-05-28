@@ -17,4 +17,4 @@ Simple timer with adjustable time and alert when timer ends and stopwatch with l
 1. Clone the repository
 2. `npm install`
 3. `npm start`
-
+### https://studentsclock.netlify.app/
